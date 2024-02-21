@@ -5,7 +5,7 @@
 
 
 
-### <div align="center">Hello, I'm Andriy Khokhlov, a full-time full-stack developer and designer👨‍💻 </div>  
+### <div align="center">Hello, I'm Andriy Khokhlov, a Strong Junior Full-Stack PHP Programmer and designer👨‍💻 </div>  
   
 
 *<div align="center">I working in IT-industrion since 2021 🚀</div>*  
