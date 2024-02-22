@@ -90,12 +90,14 @@ I specialize in creating beautiful front-ends and robust backend modules that do
 
 ---
 
-
 ### Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndriyKhokhlov07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKhokhlov07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+#### GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndriyKhokhlov07)](https://github.com/AndriyKhokhlov07/github-profile-trophy)
 
 ---
 
@@ -117,5 +119,6 @@ I specialize in creating beautiful front-ends and robust backend modules that do
 
 <br/> 
 
-----
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
