@@ -1,5 +1,4 @@
-
- <br/>
+<br/>
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/91455669?s=400&u=d937ef5eac3f83466414699271c0fd6642e6f8b4&v=4" align="center" height="300" width="300" />
@@ -12,6 +11,13 @@
 *<div align="center">I working in IT-industry since 2021 🚀</div>*  
 
 <br/>
+
+### Glad to see you here!  
+I'm a full-stack developer who has turned years of hard work and freelancing into a full-time career. As a full-fledged developer, I can not only develop client-side applications and websites, but also develop them with advanced back-end support.
+
+I specialize in creating beautiful front-ends and robust backend modules that do all the heavy lifting for your app or website. I enjoy building systems that are lightweight yet powerful, distributed yet synchronized and beautiful, and most importantly, efficient. I am also interested in systems design, databases, security, servers, optimization and new technologies such as Blockchain and PWA.  
+  
+<br/>  
 
 
 - 🔭 Now I am working on finding a new team and a place of work  
