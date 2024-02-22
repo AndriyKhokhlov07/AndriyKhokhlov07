@@ -30,9 +30,9 @@ I specialize in creating beautiful front-ends and robust backend modules that do
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
 
-<br/>  
+
+---
 
 
 ### My Skill Set  
@@ -57,7 +57,7 @@ I specialize in creating beautiful front-ends and robust backend modules that do
 </div>
 
 
-<br>
+<br/>
 
 
 #### Backend  
@@ -75,7 +75,7 @@ I specialize in creating beautiful front-ends and robust backend modules that do
 </div>
 
 
-<br>
+<br/>
 
 
 #### DevOps  
@@ -88,7 +88,7 @@ I specialize in creating beautiful front-ends and robust backend modules that do
 
 </table>  
 
-<br/>
+---
 
 
 ### Github Stats  
@@ -97,7 +97,7 @@ I specialize in creating beautiful front-ends and robust backend modules that do
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKhokhlov07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br/>
+---
 
 ### Connect with me  
 <div align="center">
