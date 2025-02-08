@@ -8,7 +8,7 @@
 
 ## <div align="center">Hi, I'm Andriy Khokhlov 👋, Strong Junior Full-Stack PHP Programmer and designer👨‍💻 </div> 
 
-*<div align="center">I working in IT-industry since 2021 🚀</div>*  
+*<div align="center">I working in IT-industry since 2020 🚀</div>*  
 
 <br/>
 
