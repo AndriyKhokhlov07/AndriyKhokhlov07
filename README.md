@@ -13,7 +13,7 @@
 <br/>
 
 ### Glad to see you here!  
-I'm a full-stack developer who has turned years of hard work and freelancing into a full-time career. As a full-fledged developer, I can not only develop client-side applications and websites, but also develop them with advanced back-end support.
+I'm a developer who has turned years of hard work and freelancing into a full-time career. As a full-fledged developer, I can not only develop client-side applications and websites, but also develop them with advanced back-end support.
 
 Experienced Full-Stack developer and Project Manager with deep knowledge in web development, IT project management, server performance optimization and implementation of complex business solutions. I own a wide range of technologies, have experience in managing teams, developing scalable web platforms and integrating financial and blockchain systems. 
   
